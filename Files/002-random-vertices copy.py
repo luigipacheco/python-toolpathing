@@ -1,4 +1,5 @@
 """
+Luis Pacheco / Neobrutal Studio
 in number s d=3 n=2
 out verts v
 """
