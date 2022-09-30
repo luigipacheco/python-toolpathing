@@ -19,3 +19,15 @@ Small workshop for designing toolpaths with Python in Blender.
 - [Nozzleboss](https://github.com/Heinz-Loepmeier/nozzleboss)
 - [Silkworm](https://github.com/ProjectSilkworm/Silkworm)
 - [Python reference](https://www.w3schools.com/python/default.asp)
+
+
+# licence
+
+/*
+ * ----------------------------------------------------------------------------
+ * "THE BEER-WARE LICENSE":
+ * Luis Pacheco wrote this files. As long as you retain this notice you
+ * can do whatever you want with this stuff. If we meet some day, and you think
+ * this stuff is worth it, you can buy me a beer in return.
+ * ----------------------------------------------------------------------------
+ */
